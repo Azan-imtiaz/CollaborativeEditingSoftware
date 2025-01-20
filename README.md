@@ -31,20 +31,6 @@ A revert-to-previous-state functionality is available
 
 
 
-
-## Features
-
-User Management:
-(User sign-up, login, logout, and retrieval of user data).
-
-Document Management:
-( Create, upload, retrieve, delete, and fetch all documents ).
-
-Collaboration:
-( Add collaborators to documents.
-View collaboration history.Revert to Previous State)
-
-
 ## Features (Microservices)
 
 - User Management:
