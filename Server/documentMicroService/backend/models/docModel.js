@@ -61,10 +61,12 @@ const docSchema = mongoose.Schema({
     default: Date.now
   },
   lastUpdatedBy:String,
+  
   previousContent: {
     type: String,
     default: ""
-  }
+  } ,
+
   
 });
 module.exports = mongoose.model('Document', docSchema);

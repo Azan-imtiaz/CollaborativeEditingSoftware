@@ -11,16 +11,13 @@ Use Microservice Architecture
 
 ## Usecases of the Project
 
-[Users can create , store  and edit documents](https://linktodocumentation)
+Users can create , store  and edit documents
 
-[Users can add collaborators to specific documents](https://linktodocumentation)
+Users can add collaborators to specific documents
 
-[Teams can collaborate and work on a document together ](https://linktodocumentation)
+Teams can collaborate and work on a document together 
 
-[A revert-to-previous-state functionality is available](https://linktodocumentation)
-
-
-
+A revert-to-previous-state functionality is available
 
 
 

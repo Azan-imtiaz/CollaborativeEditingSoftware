@@ -12,6 +12,7 @@ const Navbar = () => {
   const navigate = useNavigate();
 
   const getUser = () => {
+
     fetch(api_base_url + "/users/getUser", {
       mode: "cors",
       method: "POST",
