@@ -8,7 +8,6 @@ const axios=require("axios");
 const secret = "secret";
 
 router.post("/createDoc", async (req, res) => {
-  //  console.log(req.body)
   let { userId, docName } = req.body;
 
   try {

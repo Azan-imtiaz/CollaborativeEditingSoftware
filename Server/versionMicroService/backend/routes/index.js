@@ -70,7 +70,6 @@ router.post("/addcol", async (req, res) => {
     }
 
     const document = response.data.doc;
-  console.log(document)
     // Return successful response with the document
    
     return res.status(200).json({

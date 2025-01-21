@@ -12,7 +12,7 @@ router.get('/', function (req, res, next) {
 });
 
 router.post("/signUp", async (req, res) => {
-  console.log("Called")
+  
 
   let { username, name, email, phone, password } = req.body;
   let emailCon = await userModel.findOne({ email: email });
@@ -131,7 +131,7 @@ router.post("/findUserWithId", async (req, res) => {
     // Find the user by _id
     const user = await userModel.findById(userId);
 
-    console.log(user)
+    
     if (user) {
       res.status(200).send({
         success: true,
