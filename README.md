@@ -36,7 +36,7 @@ A revert-to-previous-state functionality is available
 - User Management:
   --> User sign-up, login, logout, and retrieval of user data
 - Document Management: -->  Create, upload, retrieve, delete, and fetch all documents 
-- Collaboration: --> Add collaborators to documents. View collaboration history.Revert to Previous State
+- Collaboration_Version Control: --> Add collaborators to documents. View collaboration history.Revert to Previous State
 
 ## Technologies Used
 
